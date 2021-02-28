@@ -7,4 +7,5 @@ links:
   steam: https://steamcommunity.com/id/TheArmchairSoldier/
   discord: https://discord.com/users/338381452380995594
 ---
-Menace edits videos and is a nerd, (and lazy, hence Beth doing his description).
+
+Hello, I'm Menace and I'm a moderator. But by Beth's request I also look after YouTube and make videos.
