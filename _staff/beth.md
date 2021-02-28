@@ -8,4 +8,4 @@ links:
   steam: https://steamcommunity.com/id/bethdrops/
   twitter: https://twitter.com/bzth
 ---
-Beth is a girl who is better than Pig. 
+Hi, I'm Beth. I look after the social media side of things and whatever else GlorifiedPig asks of me. I'm actually really bad at CMIYC.
